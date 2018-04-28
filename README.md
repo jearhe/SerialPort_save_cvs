@@ -1,2 +1,11 @@
-# SerialPort_save_cvs
-# SerialPort_save_cvs
+# 功能
+温湿度传感器通过Zigbee传输，
+再连接电脑从串口读取数据,
+保存到本地Excele（要CSV utf-8格式）
+
+# 使用
+1.先读取CSV路径
+2.再选串口
+3.打开串口
+4.关闭串口
+5.保存
